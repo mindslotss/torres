@@ -1,0 +1,1529 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script>window.LANDING_SITE_ID = 'LS-0eo8qa8yqx'</script>
+    <script>window.LANDING_SITE_CONTACT_US_URL = 'https://oaojaap5re2buacyhw4cycgvza0shopu.lambda-url.us-east-2.on.aws/'</script>
+    <script src="/public/main.umd.js" defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        rel="preload"
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap"
+        as="style"
+        onload="this.onload=null;this.rel='stylesheet'"
+    />
+    <noscript>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap"
+            rel="stylesheet"
+        />
+    </noscript>
+    <style>*,::after,::before{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e5e7eb}::after,::before{--tw-content:''}html{line-height:1.5;-webkit-text-size-adjust:100%;-moz-tab-size:4;-o-tab-size:4;tab-size:4;font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";font-feature-settings:normal;font-variation-settings:normal}body{margin:0;line-height:inherit}hr{height:0;color:inherit;border-top-width:1px}abbr:where([title]){-webkit-text-decoration:underline dotted;text-decoration:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{text-indent:0;border-color:inherit;border-collapse:collapse}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;color:inherit;margin:0;padding:0}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button;background-color:transparent;background-image:none}:-moz-focusring{outline:auto}:-moz-ui-invalid{box-shadow:none}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre{margin:0}fieldset{margin:0;padding:0}legend{padding:0}menu,ol,ul{list-style:none;margin:0;padding:0}textarea{resize:vertical}input::-moz-placeholder,textarea::-moz-placeholder{opacity:1;color:#9ca3af}input::placeholder,textarea::placeholder{opacity:1;color:#9ca3af}[role=button],button{cursor:pointer}:disabled{cursor:default}audio,canvas,embed,iframe,img,object,svg,video{display:block;vertical-align:middle}img,video{max-width:100%;height:auto}[hidden]{display:none}*,::after,::before{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / 0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: }::backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / 0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: }.visible{visibility:visible}.invisible{visibility:hidden}.static{position:static}.fixed{position:fixed}.absolute{position:absolute}.relative{position:relative}.inset-0{inset:0px}.-bottom-6{bottom:-1.5rem}.-right-6{right:-1.5rem}.bottom-0{bottom:0}.bottom-3{bottom:.75rem}.bottom-4{bottom:1rem}.bottom-6{bottom:1.5rem}.left-0{left:0}.left-3{left:.75rem}.left-4{left:1rem}.left-6{left:1.5rem}.right-0{right:0}.right-4{right:1rem}.top-0{top:0}.top-1\/2{top:50%}.z-0{z-index:0}.z-10{z-index:10}.z-50{z-index:50}.mx-auto{margin-left:auto;margin-right:auto}.mb-12{margin-bottom:3rem}.mb-16{margin-bottom:4rem}.mb-2{margin-bottom:.5rem}.mb-3{margin-bottom:.75rem}.mb-4{margin-bottom:1rem}.mb-6{margin-bottom:1.5rem}.mb-8{margin-bottom:2rem}.ml-2{margin-left:.5rem}.mr-2{margin-right:.5rem}.mt-1{margin-top:.25rem}.mt-10{margin-top:2.5rem}.mt-12{margin-top:3rem}.mt-6{margin-top:1.5rem}.mt-8{margin-top:2rem}.block{display:block}.inline-block{display:inline-block}.flex{display:flex}.inline-flex{display:inline-flex}.table{display:table}.grid{display:grid}.hidden{display:none}.h-10{height:2.5rem}.h-12{height:3rem}.h-20{height:5rem}.h-24{height:6rem}.h-28{height:7rem}.h-3{height:.75rem}.h-32{height:8rem}.h-40{height:10rem}.h-64{height:16rem}.h-72{height:18rem}.h-80{height:20rem}.h-96{height:24rem}.h-full{height:100%}.min-h-\[90vh\]{min-height:90vh}.w-10{width:2.5rem}.w-12{width:3rem}.w-3{width:.75rem}.w-64{width:16rem}.w-96{width:24rem}.w-fit{width:-moz-fit-content;width:fit-content}.w-full{width:100%}.w-px{width:1px}.max-w-2xl{max-width:42rem}.max-w-3xl{max-width:48rem}.max-w-4xl{max-width:56rem}.max-w-7xl{max-width:80rem}.flex-shrink-0{flex-shrink:0}.-translate-x-1\/2{--tw-translate-x:-50%;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.-translate-y-1\/2{--tw-translate-y:-50%;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.translate-x-0{--tw-translate-x:0px;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.translate-x-1\/2{--tw-translate-x:50%;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.translate-y-0{--tw-translate-y:0px;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.translate-y-1\/2{--tw-translate-y:50%;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.scale-0{--tw-scale-x:0;--tw-scale-y:0;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.scale-100{--tw-scale-x:1;--tw-scale-y:1;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.transform{transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}@keyframes pulse{50%{opacity:.5}}.animate-pulse{animation:pulse 2s cubic-bezier(.4,0,.6,1) infinite}.resize-none{resize:none}.grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.flex-col{flex-direction:column}.flex-wrap{flex-wrap:wrap}.items-start{align-items:flex-start}.items-center{align-items:center}.justify-center{justify-content:center}.justify-between{justify-content:space-between}.gap-1{gap:.25rem}.gap-12{gap:3rem}.gap-2{gap:.5rem}.gap-3{gap:.75rem}.gap-4{gap:1rem}.gap-6{gap:1.5rem}.gap-8{gap:2rem}.space-x-8>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-right:calc(2rem * var(--tw-space-x-reverse));margin-left:calc(2rem * calc(1 - var(--tw-space-x-reverse)))}.space-y-3>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(.75rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(.75rem * var(--tw-space-y-reverse))}.space-y-4>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(1rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(1rem * var(--tw-space-y-reverse))}.overflow-hidden{overflow:hidden}.whitespace-nowrap{white-space:nowrap}.rounded-2xl{border-radius:1rem}.rounded-3xl{border-radius:1.5rem}.rounded-\[var\(--button-rounded-radius\)\]{border-radius:var(--button-rounded-radius)}.rounded-full{border-radius:9999px}.rounded-lg{border-radius:.5rem}.rounded-xl{border-radius:.75rem}.border{border-width:1px}.border-2{border-width:2px}.border-t{border-top-width:1px}.border-\[var\(--light-border-color\)\]{border-color:var(--light-border-color)}.border-gray-700{--tw-border-opacity:1;border-color:rgb(55 65 81 / var(--tw-border-opacity))}.border-white\/20{border-color:rgb(255 255 255 / .2)}.border-white\/30{border-color:rgb(255 255 255 / .3)}.bg-\[var\(--accent-color\)\]{background-color:var(--accent-color)}.bg-\[var\(--accent2-color\)\]{background-color:var(--accent2-color)}.bg-\[var\(--accent3-color\)\]{background-color:var(--accent3-color)}.bg-\[var\(--dark-background-color\)\]{background-color:var(--dark-background-color)}.bg-\[var\(--light-background-color\)\]{background-color:var(--light-background-color)}.bg-\[var\(--primary-color\)\]{background-color:var(--primary-color)}.bg-gray-600{--tw-bg-opacity:1;background-color:rgb(75 85 99 / var(--tw-bg-opacity))}.bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255 / var(--tw-bg-opacity))}.bg-white\/10{background-color:rgb(255 255 255 / .1)}.bg-white\/20{background-color:rgb(255 255 255 / .2)}.bg-white\/5{background-color:rgb(255 255 255 / .05)}.bg-white\/90{background-color:rgb(255 255 255 / .9)}.bg-gradient-to-br{background-image:linear-gradient(to bottom right,var(--tw-gradient-stops))}.bg-gradient-to-r{background-image:linear-gradient(to right,var(--tw-gradient-stops))}.bg-gradient-to-t{background-image:linear-gradient(to top,var(--tw-gradient-stops))}.from-\[var\(--primary-color\)\]{--tw-gradient-from:var(--primary-color) var(--tw-gradient-from-position);--tw-gradient-from-position: ;--tw-gradient-to:rgb(255 255 255 / 0) var(--tw-gradient-from-position);--tw-gradient-to-position: ;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to)}.from-black\/50{--tw-gradient-from:rgb(0 0 0 / 0.5) var(--tw-gradient-from-position);--tw-gradient-from-position: ;--tw-gradient-to:rgb(0 0 0 / 0) var(--tw-gradient-from-position);--tw-gradient-to-position: ;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to)}.from-black\/60{--tw-gradient-from:rgb(0 0 0 / 0.6) var(--tw-gradient-from-position);--tw-gradient-from-position: ;--tw-gradient-to:rgb(0 0 0 / 0) var(--tw-gradient-from-position);--tw-gradient-to-position: ;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to)}.from-black\/70{--tw-gradient-from:rgb(0 0 0 / 0.7) var(--tw-gradient-from-position);--tw-gradient-from-position: ;--tw-gradient-to:rgb(0 0 0 / 0) var(--tw-gradient-from-position);--tw-gradient-to-position: ;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to)}.from-black\/80{--tw-gradient-from:rgb(0 0 0 / 0.8) var(--tw-gradient-from-position);--tw-gradient-from-position: ;--tw-gradient-to:rgb(0 0 0 / 0) var(--tw-gradient-from-position);--tw-gradient-to-position: ;--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to)}.via-black\/50{--tw-gradient-via-position: ;--tw-gradient-to:rgb(0 0 0 / 0) var(--tw-gradient-to-position);--tw-gradient-to-position: ;--tw-gradient-stops:var(--tw-gradient-from),rgb(0 0 0 / 0.5) var(--tw-gradient-via-position),var(--tw-gradient-to)}.via-transparent{--tw-gradient-via-position: ;--tw-gradient-to:rgb(0 0 0 / 0) var(--tw-gradient-to-position);--tw-gradient-to-position: ;--tw-gradient-stops:var(--tw-gradient-from),transparent var(--tw-gradient-via-position),var(--tw-gradient-to)}.to-\[var\(--accent-color\)\]{--tw-gradient-to:var(--accent-color) var(--tw-gradient-to-position);--tw-gradient-to-position: }.to-transparent{--tw-gradient-to:transparent var(--tw-gradient-to-position);--tw-gradient-to-position: }.object-cover{-o-object-fit:cover;object-fit:cover}.p-2{padding:.5rem}.p-3{padding:.75rem}.p-5{padding:1.25rem}.p-6{padding:1.5rem}.p-8{padding:2rem}.px-4{padding-left:1rem;padding-right:1rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.px-8{padding-left:2rem;padding-right:2rem}.py-1{padding-top:.25rem;padding-bottom:.25rem}.py-16{padding-top:4rem;padding-bottom:4rem}.py-2{padding-top:.5rem;padding-bottom:.5rem}.py-20{padding-top:5rem;padding-bottom:5rem}.py-24{padding-top:6rem;padding-bottom:6rem}.py-3{padding-top:.75rem;padding-bottom:.75rem}.py-4{padding-top:1rem;padding-bottom:1rem}.pb-6{padding-bottom:1.5rem}.pb-8{padding-bottom:2rem}.pr-4{padding-right:1rem}.pt-16{padding-top:4rem}.pt-32{padding-top:8rem}.pt-8{padding-top:2rem}.text-left{text-align:left}.text-center{text-align:center}.font-serif{font-family:ui-serif,Georgia,Cambria,"Times New Roman",Times,serif}.text-2xl{font-size:1.5rem;line-height:2rem}.text-3xl{font-size:1.875rem;line-height:2.25rem}.text-4xl{font-size:2.25rem;line-height:2.5rem}.text-6xl{font-size:3.75rem;line-height:1}.text-lg{font-size:1.125rem;line-height:1.75rem}.text-sm{font-size:.875rem;line-height:1.25rem}.text-xl{font-size:1.25rem;line-height:1.75rem}.font-bold{font-weight:700}.font-medium{font-weight:500}.font-semibold{font-weight:600}.uppercase{text-transform:uppercase}.italic{font-style:italic}.leading-relaxed{line-height:1.625}.leading-tight{line-height:1.25}.tracking-wider{letter-spacing:.05em}.text-\[var\(--accent-color\)\]{color:var(--accent-color)}.text-\[var\(--accent2-color\)\]{color:var(--accent2-color)}.text-\[var\(--accent3-color\)\]{color:var(--accent3-color)}.text-\[var\(--dark-text-color\)\]{color:var(--dark-text-color)}.text-\[var\(--gray-text-color\)\]{color:var(--gray-text-color)}.text-\[var\(--primary-color\)\]{color:var(--primary-color)}.text-gray-200{--tw-text-opacity:1;color:rgb(229 231 235 / var(--tw-text-opacity))}.text-gray-300{--tw-text-opacity:1;color:rgb(209 213 219 / var(--tw-text-opacity))}.text-gray-400{--tw-text-opacity:1;color:rgb(156 163 175 / var(--tw-text-opacity))}.text-gray-500{--tw-text-opacity:1;color:rgb(107 114 128 / var(--tw-text-opacity))}.text-white{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))}.text-white\/80{color:rgb(255 255 255 / .8)}.text-white\/90{color:rgb(255 255 255 / .9)}.opacity-0{opacity:0}.opacity-100{opacity:1}.opacity-20{opacity:.2}.shadow-2xl{--tw-shadow:0 25px 50px -12px rgb(0 0 0 / 0.25);--tw-shadow-colored:0 25px 50px -12px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.shadow-lg{--tw-shadow:0 10px 15px -3px rgb(0 0 0 / 0.1),0 4px 6px -4px rgb(0 0 0 / 0.1);--tw-shadow-colored:0 10px 15px -3px var(--tw-shadow-color),0 4px 6px -4px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.shadow-md{--tw-shadow:0 4px 6px -1px rgb(0 0 0 / 0.1),0 2px 4px -2px rgb(0 0 0 / 0.1);--tw-shadow-colored:0 4px 6px -1px var(--tw-shadow-color),0 2px 4px -2px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.shadow-sm{--tw-shadow:0 1px 2px 0 rgb(0 0 0 / 0.05);--tw-shadow-colored:0 1px 2px 0 var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.shadow-xl{--tw-shadow:0 20px 25px -5px rgb(0 0 0 / 0.1),0 8px 10px -6px rgb(0 0 0 / 0.1);--tw-shadow-colored:0 20px 25px -5px var(--tw-shadow-color),0 8px 10px -6px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.outline-none{outline:2px solid transparent;outline-offset:2px}.backdrop-blur-sm{--tw-backdrop-blur:blur(4px);backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia)}.transition{transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-timing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.transition-all{transition-property:all;transition-timing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.transition-colors{transition-property:color,background-color,border-color,text-decoration-color,fill,stroke;transition-timing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.transition-shadow{transition-property:box-shadow;transition-timing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.transition-transform{transition-property:transform;transition-timing-function:cubic-bezier(0.4,0,0.2,1);transition-duration:150ms}.duration-200{transition-duration:.2s}.duration-300{transition-duration:.3s}.duration-500{transition-duration:.5s}.ease-in-out{transition-timing-function:cubic-bezier(0.4,0,0.2,1)}.hover\:scale-105:hover{--tw-scale-x:1.05;--tw-scale-y:1.05;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.hover\:border-\[var\(--primary-color\)\]:hover{border-color:var(--primary-color)}.hover\:bg-\[var\(--accent2-color\)\]:hover{background-color:var(--accent2-color)}.hover\:bg-\[var\(--accent4-color\)\]:hover{background-color:var(--accent4-color)}.hover\:bg-\[var\(--primary-button-hover-bg-color\)\]:hover{background-color:var(--primary-button-hover-bg-color)}.hover\:bg-\[var\(--primary-color\)\]:hover{background-color:var(--primary-color)}.hover\:bg-gray-100:hover{--tw-bg-opacity:1;background-color:rgb(243 244 246 / var(--tw-bg-opacity))}.hover\:bg-white\/20:hover{background-color:rgb(255 255 255 / .2)}.hover\:text-\[var\(--accent-color\)\]:hover{color:var(--accent-color)}.hover\:text-\[var\(--primary-color\)\]:hover{color:var(--primary-color)}.hover\:text-white:hover{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))}.hover\:underline:hover{text-decoration-line:underline}.hover\:shadow-2xl:hover{--tw-shadow:0 25px 50px -12px rgb(0 0 0 / 0.25);--tw-shadow-colored:0 25px 50px -12px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.hover\:shadow-md:hover{--tw-shadow:0 4px 6px -1px rgb(0 0 0 / 0.1),0 2px 4px -2px rgb(0 0 0 / 0.1);--tw-shadow-colored:0 4px 6px -1px var(--tw-shadow-color),0 2px 4px -2px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.hover\:shadow-xl:hover{--tw-shadow:0 20px 25px -5px rgb(0 0 0 / 0.1),0 8px 10px -6px rgb(0 0 0 / 0.1);--tw-shadow-colored:0 20px 25px -5px var(--tw-shadow-color),0 8px 10px -6px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.focus\:border-\[var\(--primary-color\)\]:focus{border-color:var(--primary-color)}.focus\:ring-2:focus{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}.group:hover .group-hover\:scale-105{--tw-scale-x:1.05;--tw-scale-y:1.05;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.group:hover .group-hover\:scale-110{--tw-scale-x:1.1;--tw-scale-y:1.1;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}@media (min-width:640px){.sm\:block{display:block}.sm\:h-24{height:6rem}.sm\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.sm\:flex-row{flex-direction:row}.sm\:p-12{padding:3rem}.sm\:px-6{padding-left:1.5rem;padding-right:1.5rem}.sm\:text-4xl{font-size:2.25rem;line-height:2.5rem}.sm\:text-5xl{font-size:3rem;line-height:1}.sm\:text-xl{font-size:1.25rem;line-height:1.75rem}}@media (min-width:768px){.md\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.md\:flex-row{flex-direction:row}}@media (min-width:1024px){.lg\:col-span-1{grid-column:span 1/span 1}.lg\:col-span-2{grid-column:span 2/span 2}.lg\:flex{display:flex}.lg\:hidden{display:none}.lg\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.lg\:grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))}.lg\:grid-cols-4{grid-template-columns:repeat(4,minmax(0,1fr))}.lg\:flex-row{flex-direction:row}.lg\:p-10{padding:2.5rem}.lg\:p-12{padding:3rem}.lg\:p-16{padding:4rem}.lg\:px-8{padding-left:2rem;padding-right:2rem}.lg\:text-left{text-align:left}.lg\:text-5xl{font-size:3rem;line-height:1}.lg\:text-6xl{font-size:3.75rem;line-height:1}}.opacity-0{opacity:0}.opacity-5{opacity:.05}.opacity-10{opacity:.1}.opacity-15{opacity:.15}.opacity-20{opacity:.2}.opacity-25{opacity:.25}.opacity-30{opacity:.3}.opacity-35{opacity:.35}.opacity-40{opacity:.4}.opacity-45{opacity:.45}.opacity-50{opacity:.5}.opacity-55{opacity:.55}.opacity-60{opacity:.6}.opacity-65{opacity:.65}.opacity-70{opacity:.7}.opacity-75{opacity:.75}.opacity-80{opacity:.8}.opacity-85{opacity:.85}.opacity-90{opacity:.9}.opacity-95{opacity:.95}.opacity-100{opacity:1}</style>
+    <meta name="google-site-verification" content="4_2rITCTkIz7M7lnk_swr8qzZIkh8J2lWfDXFWJ2hUg">
+  <meta name="msvalidate.01" content="913b12bebf7e4944856efc552bb51c20">
+    <style>:root { --accent-color: #D4A574; --accent2-color: #8B4513; --accent3-color: #4A9BC7; --accent4-color: #E8D5C4; --primary-color: #2C5F7F; --dark-text-color: #1A1A1A; --gray-text-color: #6B6B6B; --button-padding-x: 32px; --button-padding-y: 14px; --font-family-body: Inter; --light-text-color: #FFFFFF; --dark-border-color: #2C5F7F; --light-border-color: #D6E4EC; --font-family-heading: Outfit; --button-rounded-radius: 6px; --dark-background-color: #1A2C38; --light-background-color: #EBF3F7; --medium-background-color: #DCE9F0; --primary-button-text-color: #FFFFFF; --secondary-button-bg-color: #F5F5F5; --secondary-button-text-color: #2C5F7F; --primary-button-hover-bg-color: #1E4A63; --primary-button-hover-text-color: #FFFFFF; --secondary-button-hover-bg-color: #E8E8E8; --secondary-button-hover-text-color: #1E4A63; }</style>
+    <title>Torres Painting &amp; Drywall | Professional Painting Services North Texas | Est. 2012</title>
+<meta name="description" content="Torres Painting &amp; Drywall - Family-owned painting and drywall services in North Texas since 2012. High-quality upscale residential and custom builder projects with lifetime paint guarantees.">
+<meta name="language" content="en">
+<meta property="og:title" content="Torres Painting &amp; Drywall | Professional Painting Services North Texas">
+<meta property="og:description" content="Torres Painting &amp; Drywall - Family-owned painting and drywall services in North Texas since 2012. High-quality upscale residential and custom builder projects with lifetime paint guarantees.">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Torres Painting &amp; Drywall | Professional Painting Services North Texas">
+<meta name="twitter:description" content="Torres Painting &amp; Drywall - Family-owned painting and drywall services in North Texas since 2012. High-quality upscale residential and custom builder projects with lifetime paint guarantees.">
+    
+  </head>
+  <body style="font-family:var(--font-family-body);"><header class="fixed top-0 left-0 right-0 z-50 bg-white shadow-md code-section" id="global-header">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex justify-between items-center h-32">
+      <!-- Logo -->
+      <a href="/" class="flex items-center">
+        <img src="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/810a5dad-8ae6-4bca-3bef-7448e71cb500/publicContain" alt="Torres Painting &amp; Drywall Logo" data-logo="{&quot;id&quot;:&quot;upload-Torres Logo.png&quot;,&quot;src&quot;:&quot;upload&quot;,&quot;type&quot;:&quot;image&quot;}" class="h-28 py-2">
+      </a>
+
+      <!-- Desktop Navigation -->
+      <nav class="hidden lg:flex items-center space-x-8">
+        <a href="/about" class="text-[var(--dark-text-color)] font-medium hover:text-[var(--primary-color)] transition-colors">About</a>
+        <a href="/services" class="text-[var(--dark-text-color)] font-medium hover:text-[var(--primary-color)] transition-colors">Services</a>
+        <a href="/gallery" class="text-[var(--dark-text-color)] font-medium hover:text-[var(--primary-color)] transition-colors">Gallery</a>
+        <a href="/contact" class="text-[var(--dark-text-color)] font-medium hover:text-[var(--primary-color)] transition-colors">Contact</a>
+        <a href="/free-estimate" class="bg-[var(--primary-color)] text-white px-6 py-3 rounded-[var(--button-rounded-radius)] font-semibold hover:bg-[var(--primary-button-hover-bg-color)] transition-colors">
+          Get Free Estimate
+        </a>
+      </nav>
+
+      <!-- Mobile Menu Button -->
+      <button class="lg:hidden p-2 text-[var(--dark-text-color)]" data-landingsite-mobile-menu-toggle="" aria-label="Toggle menu">
+        <i class="fa-solid fa-bars text-2xl"></i>
+      </button>
+    </div>
+  </div>
+
+  <!-- Mobile Navigation Menu -->
+  <div class="lg:hidden hidden bg-white border-t border-[var(--light-border-color)]" data-landingsite-mobile-menu="">
+    <div class="px-4 py-4 space-y-3">
+      <a href="/about" class="block py-2 text-[var(--dark-text-color)] font-medium hover:text-[var(--primary-color)]">About</a>
+      <a href="/services" class="block py-2 text-[var(--dark-text-color)] font-medium hover:text-[var(--primary-color)]">Services</a>
+      <a href="/gallery" class="block py-2 text-[var(--dark-text-color)] font-medium hover:text-[var(--primary-color)]">Gallery</a>
+      <a href="/contact" class="block py-2 text-[var(--dark-text-color)] font-medium hover:text-[var(--primary-color)]">Contact</a>
+      <a href="/free-estimate" class="block text-center bg-[var(--primary-color)] text-white px-6 py-3 rounded-[var(--button-rounded-radius)] font-semibold hover:bg-[var(--primary-button-hover-bg-color)]">
+        Get Free Estimate
+      </a>
+    </div>
+  </div>
+</header>
+<section class="relative min-h-[90vh] flex items-center pt-32 code-section" id="sebcn7r">
+  <!-- Background Image -->
+  <div class="absolute inset-0 z-0">
+    <img src="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/2ffca6df-bb18-4131-d259-acb8889c8400/publicContain" alt="Professional painter working on home renovation" data-media="{&quot;id&quot;:&quot;2217702678&quot;,&quot;src&quot;:&quot;iStock&quot;,&quot;type&quot;:&quot;image&quot;}" class="w-full h-full object-cover" oncontextmenu="return false;">
+    <!-- Gradient Overlay -->
+    <div class="absolute inset-0 bg-gradient-to-r from-black/80 via-black/50 to-transparent"></div>
+  </div>
+
+  <!-- Content -->
+  <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
+    <div class="max-w-2xl">
+      <!-- Trust Badge -->
+      <div class="inline-flex items-center gap-3 bg-white/10 backdrop-blur-sm border border-white/20 px-4 py-2 rounded-full mb-6">
+        <div class="flex items-center gap-1">
+          <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+          <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+          <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+          <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+          <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+        </div>
+        <span class="text-white font-medium text-sm">Family Owned Since 2012</span>
+      </div>
+
+      <!-- Headline - Clear Value Prop -->
+      <h1 class="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6" style="font-family: var(--font-family-heading);">
+        Premium
+        <span class="text-[var(--accent-color)]">Painting &amp; Drywall</span>
+        Services in Whitesboro, Sherman, Gainesville, Celina &amp; All North
+        Texas
+      </h1>
+
+      <!-- Subheadline -->
+      <p class="text-lg sm:text-xl text-gray-200 mb-8 leading-relaxed" style="font-family: var(--font-family-body);">
+        Transform your home with expert
+        <a href="/services/interior-painting" class="text-[var(--accent-color)] hover:underline">interior painting in Whitesboro TX</a>,
+        <a href="/services/exterior-painting" class="text-[var(--accent-color)] hover:underline">exterior painting in Sherman TX</a>, and
+        <a href="/services/drywall" class="text-[var(--accent-color)] hover:underline">drywall repair in Gainesville</a>. We also serve Celina, Collinsville, Gunter, Van Alstyne, and all of
+        North Texas. Quality lifetime paints, custom finishes, and flawless
+        drywall repair—backed by our satisfaction guarantee.
+      </p>
+
+      <!-- CTAs -->
+      <div class="flex flex-col sm:flex-row gap-4 mb-8">
+        <a href="/free-estimate" class="inline-flex items-center justify-center bg-[var(--primary-color)] text-white px-8 py-4 rounded-[var(--button-rounded-radius)] font-semibold text-lg hover:bg-[var(--primary-button-hover-bg-color)] transition-all transform hover:scale-105 shadow-lg">
+          Get Free Estimate
+          <i class="fa-solid fa-arrow-right ml-2"></i>
+        </a>
+        <a href="/contact" class="inline-flex items-center justify-center bg-white/10 backdrop-blur-sm text-white px-8 py-4 rounded-[var(--button-rounded-radius)] font-semibold text-lg border border-white/30 hover:bg-white/20 transition-all">
+          <i class="fa-solid fa-phone mr-2"></i>
+          Call Now
+        </a>
+      </div>
+
+      <!-- Trust Indicators -->
+      <div class="flex flex-wrap items-center gap-6">
+        <div class="flex items-center gap-2">
+          <i class="fa-solid fa-shield-halved text-[var(--accent-color)] text-xl"></i>
+          <span class="text-gray-300 text-sm">Fully Insured</span>
+        </div>
+        <div class="flex items-center gap-2">
+          <i class="fa-solid fa-calendar-check text-[var(--accent-color)] text-xl"></i>
+          <span class="text-gray-300 text-sm">14+ Years Experience</span>
+        </div>
+        <div class="flex items-center gap-2">
+          <i class="fa-solid fa-award text-[var(--accent-color)] text-xl"></i>
+          <span class="text-gray-300 text-sm">Quality Guaranteed</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Wave SVG Bottom -->
+  <div class="absolute bottom-0 left-0 right-0">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 120" class="w-full h-20 sm:h-24" preserveAspectRatio="none">
+      <path fill="#ffffff" d="M0,64L80,69.3C160,75,320,85,480,80C640,75,800,53,960,48C1120,43,1280,53,1360,58.7L1440,64L1440,120L1360,120C1280,120,1120,120,960,120C800,120,640,120,480,120C320,120,160,120,80,120L0,120Z"></path>
+    </svg>
+  </div>
+</section>
+<section class="py-16 bg-[var(--light-background-color)] code-section" id="s1mshra">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <!-- Section Header -->
+    <div class="text-center mb-12">
+      <h2 class="text-3xl sm:text-4xl font-bold text-[var(--dark-text-color)] mb-4" style="font-family: var(--font-family-heading);">
+        Our Services
+      </h2>
+      <p class="text-[var(--gray-text-color)] max-w-2xl mx-auto" style="font-family: var(--font-family-body);">
+        Professional painting and drywall solutions for homes and businesses
+        across North Texas
+      </p>
+    </div>
+
+    <!-- Services Buttons Grid -->
+    <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
+      <!-- Interior Painting -->
+      <a href="/services/interior-painting" class="group bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all border border-[var(--light-border-color)] hover:border-[var(--primary-color)]">
+        <div class="relative h-40 overflow-hidden">
+          <img src="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/849b02af-bb4a-41ca-eda5-31943f948300/public" alt="Interior painting services" data-media="{&quot;id&quot;:&quot;2223733286&quot;,&quot;src&quot;:&quot;iStock&quot;,&quot;type&quot;:&quot;image&quot;}" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" oncontextmenu="return false;">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
+          <div class="absolute bottom-3 left-3 w-10 h-10 bg-[var(--primary-color)] rounded-xl flex items-center justify-center">
+            <i class="fa-solid fa-paint-roller text-white"></i>
+          </div>
+        </div>
+        <div class="p-5">
+          <h3 class="text-lg font-bold text-[var(--dark-text-color)] mb-2" style="font-family: var(--font-family-heading);">
+            Interior Painting
+          </h3>
+          <p class="text-[var(--gray-text-color)] text-sm" style="font-family: var(--font-family-body);">
+            Walls, ceilings, trim &amp; custom finishes
+          </p>
+        </div>
+      </a>
+
+      <!-- Exterior Painting -->
+      <a href="/services/exterior-painting" class="group bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all border border-[var(--light-border-color)] hover:border-[var(--primary-color)]">
+        <div class="relative h-40 overflow-hidden">
+          <img src="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/b0a43bde-ea5d-4df8-21a9-4efa52fb4e00/publicContain" alt="Exterior painting services" data-media="{&quot;id&quot;:&quot;2191451216&quot;,&quot;src&quot;:&quot;iStock&quot;,&quot;type&quot;:&quot;image&quot;}" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" oncontextmenu="return false;">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
+          <div class="absolute bottom-3 left-3 w-10 h-10 bg-[var(--accent-color)] rounded-xl flex items-center justify-center">
+            <i class="fa-solid fa-house-chimney text-white"></i>
+          </div>
+        </div>
+        <div class="p-5">
+          <h3 class="text-lg font-bold text-[var(--dark-text-color)] mb-2" style="font-family: var(--font-family-heading);">
+            Exterior Painting
+          </h3>
+          <p class="text-[var(--gray-text-color)] text-sm" style="font-family: var(--font-family-body);">
+            Weather-resistant finishes that last
+          </p>
+        </div>
+      </a>
+
+      <!-- Drywall Repair -->
+      <a href="/services/drywall" class="group bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all border border-[var(--light-border-color)] hover:border-[var(--primary-color)]">
+        <div class="relative h-40 overflow-hidden">
+          <img src="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/79eb35dd-64e3-47cf-a1f3-11791840a700/public" alt="Drywall repair services" data-media="{&quot;id&quot;:&quot;2245303659&quot;,&quot;src&quot;:&quot;iStock&quot;,&quot;type&quot;:&quot;image&quot;}" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" oncontextmenu="return false;">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
+          <div class="absolute bottom-3 left-3 w-10 h-10 bg-[var(--accent3-color)] rounded-xl flex items-center justify-center">
+            <i class="fa-solid fa-hammer text-white"></i>
+          </div>
+        </div>
+        <div class="p-5">
+          <h3 class="text-lg font-bold text-[var(--dark-text-color)] mb-2" style="font-family: var(--font-family-heading);">
+            Drywall Repair
+          </h3>
+          <p class="text-[var(--gray-text-color)] text-sm" style="font-family: var(--font-family-body);">
+            Patches, holes &amp; water damage repair
+          </p>
+        </div>
+      </a>
+
+      <!-- Texture Matching -->
+      <a href="/texture-matching" class="group bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all border border-[var(--light-border-color)] hover:border-[var(--primary-color)]">
+        <div class="relative h-40 overflow-hidden">
+          <img src="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/668dc607-fc0b-4fec-f025-2c3891fddb00/publicContain" alt="Drywall texture and finishing services" data-media="{&quot;id&quot;:&quot;2213449518&quot;,&quot;src&quot;:&quot;iStock&quot;,&quot;type&quot;:&quot;image&quot;}" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" oncontextmenu="return false;">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
+          <div class="absolute bottom-3 left-3 w-10 h-10 bg-[var(--accent2-color)] rounded-xl flex items-center justify-center">
+            <i class="fa-solid fa-layer-group text-white"></i>
+          </div>
+        </div>
+        <div class="p-5">
+          <h3 class="text-lg font-bold text-[var(--dark-text-color)] mb-2" style="font-family: var(--font-family-heading);">
+            Texture Matching
+          </h3>
+          <p class="text-[var(--gray-text-color)] text-sm" style="font-family: var(--font-family-body);">
+            L1-L5 levels, smooth finish, orange peel &amp; custom textures
+          </p>
+        </div>
+      </a>
+    </div>
+
+    <!-- CTA -->
+    <div class="text-center mt-10">
+      <a href="/services" class="inline-flex items-center justify-center bg-[var(--primary-color)] text-white px-8 py-4 rounded-[var(--button-rounded-radius)] font-semibold hover:bg-[var(--primary-button-hover-bg-color)] transition-colors">
+        View All Services
+        <i class="fa-solid fa-arrow-right ml-2"></i>
+      </a>
+    </div>
+  </div>
+</section>
+<section class="py-20 bg-white code-section" id="sks5st4">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <!-- Section Header -->
+    <div class="text-center mb-16">
+      <span class="inline-block text-[var(--primary-color)] font-semibold text-sm tracking-wider uppercase mb-3">Why Choose Us</span>
+      <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-[var(--dark-text-color)] mb-6" style="font-family: var(--font-family-heading);">
+        The Torres Painting &amp; Drywall Difference
+      </h2>
+      <p class="text-lg text-[var(--gray-text-color)] max-w-2xl mx-auto" style="font-family: var(--font-family-body);">
+        With over 14 years serving North Texas, we deliver exceptional results
+        on every project.
+      </p>
+    </div>
+
+    <!-- Differentiators Grid -->
+    <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+      <!-- Differentiator 1 -->
+      <div class="group bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 border border-[var(--light-border-color)] hover:border-[var(--primary-color)]">
+        <div class="relative h-40 overflow-hidden">
+          <img src="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/55d183b9-3d63-4a3d-f503-875aaf57a900/public" alt="Premium quality paints and painting supplies" data-media="{&quot;id&quot;:&quot;2211909725&quot;,&quot;src&quot;:&quot;iStock&quot;,&quot;type&quot;:&quot;image&quot;}" class="w-full h-40 object-cover transform group-hover:scale-110 transition-transform duration-500" oncontextmenu="return false;">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+          <div class="absolute bottom-4 left-4">
+            <div class="w-12 h-12 bg-[var(--primary-color)] rounded-xl flex items-center justify-center">
+              <i class="fa-solid fa-paint-bucket text-white text-xl"></i>
+            </div>
+          </div>
+        </div>
+        <div class="p-6">
+          <h3 class="text-xl font-bold text-[var(--dark-text-color)] mb-3" style="font-family: var(--font-family-heading);">
+            Premium Quality Paints
+          </h3>
+          <p class="text-[var(--gray-text-color)]" style="font-family: var(--font-family-body);">
+            We use only lifetime paint products from top brands for lasting
+            beauty and protection on every job.
+          </p>
+        </div>
+      </div>
+
+      <!-- Differentiator 2 -->
+      <div class="group bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 border border-[var(--light-border-color)] hover:border-[var(--primary-color)]">
+        <div class="relative h-40 overflow-hidden">
+          <img src="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/1a4c36ee-702e-43d4-54f5-ea9a6cd83600/public" alt="Custom home builder partnership and collaboration" data-media="{&quot;id&quot;:&quot;2199351006&quot;,&quot;src&quot;:&quot;iStock&quot;,&quot;type&quot;:&quot;image&quot;}" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" oncontextmenu="return false;">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+          <div class="absolute bottom-4 left-4">
+            <div class="w-12 h-12 bg-[var(--accent-color)] rounded-xl flex items-center justify-center">
+              <i class="fa-solid fa-user-tie text-white text-xl"></i>
+            </div>
+          </div>
+        </div>
+        <div class="p-6">
+          <h3 class="text-xl font-bold text-[var(--dark-text-color)] mb-3" style="font-family: var(--font-family-heading);">
+            Custom Builder Partners
+          </h3>
+          <p class="text-[var(--gray-text-color)]" style="font-family: var(--font-family-body);">
+            Trusted by custom home builders throughout Whitesboro, Sherman,
+            Celina, Gunter &amp; Van Alstyne for quality craftsmanship.
+          </p>
+        </div>
+      </div>
+
+      <!-- Differentiator 3 -->
+      <div class="group bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 border border-[var(--light-border-color)] hover:border-[var(--primary-color)]">
+        <div class="relative h-40 overflow-hidden">
+          <img src="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/90786c5e-0a93-4b65-6f99-c4d2e21b7900/public" alt="Quality assurance and customer satisfaction guarantee" data-media="{&quot;id&quot;:&quot;2236022869&quot;,&quot;src&quot;:&quot;iStock&quot;,&quot;type&quot;:&quot;image&quot;}" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" oncontextmenu="return false;">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+          <div class="absolute bottom-4 left-4">
+            <div class="w-12 h-12 bg-[var(--accent3-color)] rounded-xl flex items-center justify-center">
+              <i class="fa-solid fa-clipboard-check text-white text-xl"></i>
+            </div>
+          </div>
+        </div>
+        <div class="p-6">
+          <h3 class="text-xl font-bold text-[var(--dark-text-color)] mb-3" style="font-family: var(--font-family-heading);">
+            Satisfaction Guaranteed
+          </h3>
+          <p class="text-[var(--gray-text-color)]" style="font-family: var(--font-family-body);">
+            We're not happy until you're happy. Every project includes our
+            quality guarantee.
+          </p>
+        </div>
+      </div>
+
+      <!-- Differentiator 4 -->
+      <div class="group bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300 border border-[var(--light-border-color)] hover:border-[var(--primary-color)]">
+        <div class="relative h-40 overflow-hidden">
+          <img src="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/bc79c71b-8e82-468c-61db-0ebd3ce2c700/publicContain" alt="North Texas local experts serving Whitesboro Sherman Gainesville and surrounding areas" data-media="{&quot;id&quot;:&quot;2233446921&quot;,&quot;src&quot;:&quot;iStock&quot;,&quot;type&quot;:&quot;image&quot;}" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" oncontextmenu="return false;">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+          <div class="absolute bottom-4 left-4">
+            <div class="w-12 h-12 bg-[var(--accent2-color)] rounded-xl flex items-center justify-center">
+              <i class="fa-solid fa-map-location-dot text-white text-xl"></i>
+            </div>
+          </div>
+        </div>
+        <div class="p-6">
+          <h3 class="text-xl font-bold text-[var(--dark-text-color)] mb-3" style="font-family: var(--font-family-heading);">
+            Local North Texas Experts
+          </h3>
+          <p class="text-[var(--gray-text-color)]" style="font-family: var(--font-family-body);">
+            Family-owned since 2012. We know North Texas homes and climate—from
+            Sherman to Gainesville.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Trust Badges Bar -->
+    <div class="mt-12 flex flex-wrap justify-center items-center gap-8 bg-[var(--dark-background-color)] rounded-2xl p-6">
+      <div class="flex items-center gap-3">
+        <i class="fa-solid fa-shield-halved text-[var(--accent-color)] text-2xl"></i>
+        <div>
+          <p class="text-white font-bold">Fully Insured</p>
+          <p class="text-gray-400 text-sm">Family-Owned Since 2012</p>
+        </div>
+      </div>
+      <div class="w-px h-12 bg-gray-600 hidden sm:block"></div>
+      <div class="flex items-center gap-3">
+        <i class="fa-solid fa-calendar-check text-[var(--accent-color)] text-2xl"></i>
+        <div>
+          <p class="text-white font-bold">14+ Years</p>
+          <p class="text-gray-400 text-sm">In Business</p>
+        </div>
+      </div>
+      <div class="w-px h-12 bg-gray-600 hidden sm:block"></div>
+      <div class="flex items-center gap-3">
+        <div class="flex items-center gap-1">
+          <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+          <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+          <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+          <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+          <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+        </div>
+        <div>
+          <p class="text-white font-bold">Satisfaction</p>
+          <p class="text-gray-400 text-sm">Guaranteed</p>
+        </div>
+      </div>
+      <div class="w-px h-12 bg-gray-600 hidden sm:block"></div>
+      <div class="flex items-center gap-3">
+        <i class="fa-solid fa-thumbs-up text-[var(--accent-color)] text-2xl"></i>
+        <div>
+          <p class="text-white font-bold">Free</p>
+          <p class="text-gray-400 text-sm">Estimates</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="py-16 bg-gradient-to-r from-[var(--primary-color)] to-[var(--accent-color)] code-section" id="shs3i1">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex flex-col lg:flex-row items-center justify-between gap-8">
+      <div class="text-center lg:text-left">
+        <div class="inline-flex items-center gap-2 bg-white/20 text-white px-4 py-2 rounded-full text-sm font-medium mb-4">
+          <i class="fa-solid fa-bolt"></i> Limited Scheduling Availability
+        </div>
+        <h2 class="text-3xl sm:text-4xl font-bold text-white mb-4" style="font-family: var(--font-family-heading);">
+          Get Your Free Estimate Today
+        </h2>
+        <p class="text-lg text-white/90 mb-4" style="font-family: var(--font-family-body);">
+          Same-day response • Free estimates • Serving Whitesboro, Sherman,
+          Gainesville &amp; all of North Texas
+        </p>
+        <div class="flex items-center gap-2 text-white/80 text-sm">
+          <i class="fa-solid fa-clock"></i>
+          <span>Fast response times • Usually within 2 hours</span>
+        </div>
+      </div>
+      <div class="flex flex-col sm:flex-row gap-4">
+        <a href="/free-estimate" class="inline-flex items-center justify-center bg-white text-[var(--primary-color)] px-8 py-4 rounded-[var(--button-rounded-radius)] font-bold text-lg hover:bg-gray-100 transition-colors shadow-lg">
+          <i class="fa-solid fa-calendar-check mr-2"></i>
+          Get Free Estimate
+        </a>
+        <a href="tel:+18175079792" class="inline-flex items-center justify-center bg-[var(--accent-color)] text-white px-8 py-4 rounded-[var(--button-rounded-radius)] font-bold text-lg hover:bg-[var(--accent2-color)] transition-colors shadow-lg animate-pulse">
+          <i class="fa-solid fa-phone mr-2"></i>
+          Call 817-507-9792
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="py-20 bg-[var(--light-background-color)] code-section" id="swxmrm">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <!-- Section Header -->
+    <div class="text-center mb-12">
+      <span class="inline-block text-[var(--primary-color)] font-semibold text-sm tracking-wider uppercase mb-3">Testimonials</span>
+      <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-[var(--dark-text-color)] mb-6" style="font-family: var(--font-family-heading);">
+        What Our Clients Say
+      </h2>
+    </div>
+
+    <!-- Testimonial Carousel -->
+    <div class="relative overflow-hidden" data-landingsite-carousel="">
+      <div class="flex transition-transform duration-500 ease-in-out" data-landingsite-carousel-inner="">
+        <!-- Testimonial 1 -->
+        <div class="relative flex w-full flex-shrink-0 group" data-landingsite-carousel-item="">
+          <div class="max-w-3xl mx-auto w-full">
+            <div class="bg-white rounded-2xl shadow-xl p-8 lg:p-10 border border-[var(--light-border-color)]">
+              <!-- Quote Icon -->
+              <div class="text-[var(--accent-color)] text-6xl font-serif mb-4 opacity-20">
+                "
+              </div>
+              <!-- Stars -->
+              <div class="flex items-center gap-1 mb-4">
+                <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+                <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+                <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+                <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+                <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+              </div>
+              <!-- Review Text -->
+              <p class="text-lg text-[var(--dark-text-color)] mb-6 italic" style="font-family: var(--font-family-body);">
+                Torres Painting transformed our home! The team was professional,
+                on time, and the quality of work exceeded our expectations. Our
+                living room looks brand new. Highly recommend for anyone in
+                Whitesboro or Sherman!
+              </p>
+              <!-- Client Info -->
+              <div class="flex items-center gap-4">
+                <div class="w-12 h-12 bg-[var(--primary-color)] rounded-full flex items-center justify-center text-white font-bold text-lg">
+                  SM
+                </div>
+                <div>
+                  <p class="font-bold text-[var(--dark-text-color)]">
+                    Sarah M.
+                  </p>
+                  <p class="text-sm text-[var(--gray-text-color)]">
+                    Whitesboro, TX
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Testimonial 2 -->
+        <div class="relative flex w-full flex-shrink-0 group" data-landingsite-carousel-item="">
+          <div class="max-w-3xl mx-auto w-full">
+            <div class="bg-white rounded-2xl shadow-xl p-8 lg:p-10 border border-[var(--light-border-color)]">
+              <div class="text-[var(--accent-color)] text-6xl font-serif mb-4 opacity-20">
+                "
+              </div>
+              <div class="flex items-center gap-1 mb-4">
+                <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+                <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+                <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+                <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+                <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+              </div>
+              <p class="text-lg text-[var(--dark-text-color)] mb-6 italic" style="font-family: var(--font-family-body);">
+                We've used Torres Painting for multiple properties in Sherman
+                and Gainesville. They always deliver top-quality results. The
+                drywall repair after water damage was seamless—you can't tell
+                there was ever a problem. Best in Grayson County!
+              </p>
+              <div class="flex items-center gap-4">
+                <div class="w-12 h-12 bg-[var(--accent-color)] rounded-full flex items-center justify-center text-white font-bold text-lg">
+                  JR
+                </div>
+                <div>
+                  <p class="font-bold text-[var(--dark-text-color)]">
+                    James R.
+                  </p>
+                  <p class="text-sm text-[var(--gray-text-color)]">
+                    Sherman, TX
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Testimonial 3 -->
+        <div class="relative flex w-full flex-shrink-0 group" data-landingsite-carousel-item="">
+          <div class="max-w-3xl mx-auto w-full">
+            <div class="bg-white rounded-2xl shadow-xl p-8 lg:p-10 border border-[var(--light-border-color)]">
+              <div class="text-[var(--accent-color)] text-6xl font-serif mb-4 opacity-20">
+                "
+              </div>
+              <div class="flex items-center gap-1 mb-4">
+                <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+                <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+                <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+                <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+                <i class="fa-solid fa-star text-[var(--accent-color)]"></i>
+              </div>
+              <p class="text-lg text-[var(--dark-text-color)] mb-6 italic" style="font-family: var(--font-family-body);">
+                As a custom home builder, I need subcontractors I can trust.
+                Torres Painting &amp; Drywall has been my go-to for years. They
+                coordinate well, meet deadlines, and the work is always
+                flawless. Highly recommend for builder partnerships throughout
+                North Texas!
+              </p>
+              <div class="flex items-center gap-4">
+                <div class="w-12 h-12 bg-[var(--accent3-color)] rounded-full flex items-center justify-center text-white font-bold text-lg">
+                  MK
+                </div>
+                <div>
+                  <p class="font-bold text-[var(--dark-text-color)]">Mike K.</p>
+                  <p class="text-sm text-[var(--gray-text-color)]">
+                    Custom Builder, Celina
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Carousel Controls -->
+      <button class="absolute left-4 top-1/2 -translate-y-1/2 w-12 h-12 bg-white shadow-lg rounded-full flex items-center justify-center text-[var(--primary-color)] hover:bg-[var(--primary-color)] hover:text-white transition-colors z-10" data-landingsite-carousel-controls-left="">
+        <i class="fa-solid fa-chevron-left"></i>
+      </button>
+      <button class="absolute right-4 top-1/2 -translate-y-1/2 w-12 h-12 bg-white shadow-lg rounded-full flex items-center justify-center text-[var(--primary-color)] hover:bg-[var(--primary-color)] hover:text-white transition-colors z-10" data-landingsite-carousel-controls-right="">
+        <i class="fa-solid fa-chevron-right"></i>
+      </button>
+
+      <!-- Carousel Indicators -->
+      <ul class="flex items-center justify-center gap-3 mt-8" data-landingsite-carousel-controls-index="">
+        <li class="h-3 w-3 rounded-full bg-[var(--primary-color)]"></li>
+      </ul>
+    </div>
+  </div>
+</section>
+<section class="py-16 bg-[var(--light-background-color)] code-section" id="sabfvlh">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="bg-white rounded-3xl shadow-2xl overflow-hidden">
+      <div class="grid lg:grid-cols-2">
+        <div class="p-8 lg:p-12 bg-gradient-to-br from-[var(--primary-color)] to-[var(--accent-color)]">
+          <div class="h-full flex flex-col justify-center text-white">
+            <div class="inline-flex items-center gap-2 bg-white/20 px-4 py-2 rounded-full text-sm font-medium mb-6 w-fit">
+              <i class="fa-solid fa-bolt"></i> Quick Response
+            </div>
+            <h2 class="text-3xl sm:text-4xl font-bold mb-4" style="font-family: var(--font-family-heading);">
+              Ready to Transform Your Home?
+            </h2>
+            <p class="text-lg text-white/90 mb-8" style="font-family: var(--font-family-body);">
+              Don't wait - limited scheduling availability in your area. Get
+              your free estimate today and see why North Texas homeowners trust
+              Torres Painting &amp; Drywall.
+            </p>
+            <div class="flex flex-col sm:flex-row gap-4">
+              <a href="/free-estimate" class="inline-flex items-center justify-center bg-white text-[var(--primary-color)] px-8 py-4 rounded-[var(--button-rounded-radius)] font-bold text-lg hover:bg-gray-100 transition-colors">
+                <i class="fa-solid fa-pencil mr-2"></i>
+                Request Free Estimate
+              </a>
+              <a href="tel:+18175079792" class="inline-flex items-center justify-center bg-[var(--accent-color)] text-white px-8 py-4 rounded-[var(--button-rounded-radius)] font-bold text-lg hover:bg-[var(--accent2-color)] transition-colors border-2 border-white/30">
+                <i class="fa-solid fa-phone mr-2"></i>
+                Call Now
+              </a>
+            </div>
+            <div class="mt-8 pt-8 border-t border-white/20">
+              <div class="flex items-center gap-6 flex-wrap">
+                <div class="flex items-center gap-2">
+                  <i class="fa-solid fa-check-circle text-[var(--accent-color)]"></i>
+                  <span class="text-sm">Free Estimates</span>
+                </div>
+                <div class="flex items-center gap-2">
+                  <i class="fa-solid fa-check-circle text-[var(--accent-color)]"></i>
+                  <span class="text-sm">Same-Day Response</span>
+                </div>
+                <div class="flex items-center gap-2">
+                  <i class="fa-solid fa-check-circle text-[var(--accent-color)]"></i>
+                  <span class="text-sm">Licensed &amp; Insured</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="p-8 lg:p-12">
+          <h3 class="text-2xl font-bold text-[var(--dark-text-color)] mb-6" style="font-family: var(--font-family-heading);">
+            Why Homeowners Choose Us
+          </h3>
+          <ul class="space-y-4">
+            <li class="flex items-start gap-4">
+              <div class="w-10 h-10 bg-[var(--primary-color)]/10 rounded-full flex items-center justify-center flex-shrink-0 mt-1">
+                <i class="fa-solid fa-medal text-[var(--primary-color)]"></i>
+              </div>
+              <div>
+                <h4 class="font-bold text-[var(--dark-text-color)]">
+                  14+ Years Experience
+                </h4>
+                <p class="text-[var(--gray-text-color)] text-sm">
+                  Serving North Texas since 2012 with proven expertise
+                </p>
+              </div>
+            </li>
+            <li class="flex items-start gap-4">
+              <div class="w-10 h-10 bg-[var(--accent-color)]/10 rounded-full flex items-center justify-center flex-shrink-0 mt-1">
+                <i class="fa-solid fa-palette text-[var(--accent-color)]"></i>
+              </div>
+              <div>
+                <h4 class="font-bold text-[var(--dark-text-color)]">
+                  Premium Lifetime Paints
+                </h4>
+                <p class="text-[var(--gray-text-color)] text-sm">
+                  Sherwin-Williams &amp; Benjamin Moore with warranties
+                </p>
+              </div>
+            </li>
+            <li class="flex items-start gap-4">
+              <div class="w-10 h-10 bg-[var(--accent3-color)]/10 rounded-full flex items-center justify-center flex-shrink-0 mt-1">
+                <i class="fa-solid fa-shield-halved text-[var(--accent3-color)]"></i>
+              </div>
+              <div>
+                <h4 class="font-bold text-[var(--dark-text-color)]">
+                  100% Satisfaction Guaranteed
+                </h4>
+                <p class="text-[var(--gray-text-color)] text-sm">
+                  We stand behind every project we complete
+                </p>
+              </div>
+            </li>
+            <li class="flex items-start gap-4">
+              <div class="w-10 h-10 bg-[var(--accent2-color)]/10 rounded-full flex items-center justify-center flex-shrink-0 mt-1">
+                <i class="fa-solid fa-clock text-[var(--accent2-color)]"></i>
+              </div>
+              <div>
+                <h4 class="font-bold text-[var(--dark-text-color)]">
+                  Fast Turnaround
+                </h4>
+                <p class="text-[var(--gray-text-color)] text-sm">
+                  Most projects completed in 3-7 days
+                </p>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="py-20 bg-white code-section" id="sjyjpm">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="grid lg:grid-cols-2 gap-12 items-center">
+      <!-- Crew Photo -->
+      <div class="relative">
+        <img src="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/084ef6e2-56e0-49e4-d5d2-31e2d5272500/publicContain" alt="Torres Painting &amp; Drywall professional crew at work" data-media="{&quot;id&quot;:&quot;909473496&quot;,&quot;src&quot;:&quot;iStock&quot;,&quot;type&quot;:&quot;image&quot;}" class="w-full h-96 object-cover rounded-2xl shadow-2xl" oncontextmenu="return false;">
+        <!-- Experience Badge -->
+        <div class="absolute -bottom-6 -right-6 bg-[var(--primary-color)] text-white px-6 py-4 rounded-2xl shadow-xl">
+          <p class="text-4xl font-bold">14+</p>
+          <p class="text-sm">Years Experience</p>
+        </div>
+      </div>
+
+      <!-- About Content -->
+      <div>
+        <span class="inline-block text-[var(--primary-color)] font-semibold text-sm tracking-wider uppercase mb-3">About Us</span>
+        <h2 class="text-3xl sm:text-4xl font-bold text-[var(--dark-text-color)] mb-6" style="font-family: var(--font-family-heading);">
+          Quality Craftsmanship Since 2012
+        </h2>
+        <p class="text-lg text-[var(--gray-text-color)] mb-6" style="font-family: var(--font-family-body);">
+          <strong class="text-[var(--dark-text-color)]">Torres Painting &amp; Drywall</strong>
+          is a family-owned and operated business established in 2012. We
+          specialize in high-quality upscale painting and drywall services for
+          residential and commercial clients throughout North Texas.
+        </p>
+        <p class="text-[var(--gray-text-color)] mb-6" style="font-family: var(--font-family-body);">
+          We partner with custom home builders and take pride in using quality
+          lifetime paint products. Our mission is simple: deliver exceptional
+          craftsmanship on every project, every time. From Whitesboro to
+          Sherman, Celina to Gainesville—we're your local experts for
+          transforming homes throughout Grayson and Cooke Counties.
+        </p>
+
+        <!-- Mission Points -->
+        <div class="space-y-3 mb-8">
+          <div class="flex items-center gap-3">
+            <i class="fa-solid fa-check-circle text-[var(--accent-color)] text-xl"></i>
+            <span class="text-[var(--dark-text-color)]">Quality guaranteed on every project</span>
+          </div>
+          <div class="flex items-center gap-3">
+            <i class="fa-solid fa-check-circle text-[var(--accent-color)] text-xl"></i>
+            <span class="text-[var(--dark-text-color)]">Lifetime paint products for lasting results</span>
+          </div>
+          <div class="flex items-center gap-3">
+            <i class="fa-solid fa-check-circle text-[var(--accent-color)] text-xl"></i>
+            <span class="text-[var(--dark-text-color)]">Professional, reliable, and punctual</span>
+          </div>
+        </div>
+
+        <a href="/about" class="inline-flex items-center justify-center bg-[var(--primary-color)] text-white px-8 py-4 rounded-[var(--button-rounded-radius)] font-semibold hover:bg-[var(--primary-button-hover-bg-color)] transition-colors">
+          Learn More About Us
+          <i class="fa-solid fa-arrow-right ml-2"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="py-16 bg-[var(--primary-color)] code-section" id="spbpwi9">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex flex-col lg:flex-row items-center justify-between gap-8">
+      <div class="text-center lg:text-left">
+        <h2 class="text-3xl sm:text-4xl font-bold text-white mb-4" style="font-family: var(--font-family-heading);">
+          Get a Free Painting or Drywall Estimate Today
+        </h2>
+        <p class="text-lg text-white/80" style="font-family: var(--font-family-body);">
+          Same-day response • Free estimates • Serving Whitesboro, Sherman,
+          Gainesville &amp; all of North Texas
+        </p>
+      </div>
+      <div class="flex flex-col sm:flex-row gap-4">
+        <a href="/free-estimate" class="inline-flex items-center justify-center bg-white text-[var(--primary-color)] px-8 py-4 rounded-[var(--button-rounded-radius)] font-semibold text-lg hover:bg-[var(--accent4-color)] transition-colors shadow-lg">
+          <i class="fa-solid fa-calendar-check mr-2"></i>
+          Get Free Estimate
+        </a>
+        <a href="tel:+18175079792" class="inline-flex items-center justify-center bg-[var(--accent-color)] text-white px-8 py-4 rounded-[var(--button-rounded-radius)] font-semibold text-lg hover:bg-[var(--accent2-color)] transition-colors shadow-lg">
+          <i class="fa-solid fa-phone mr-2"></i>
+          Call 817-507-9792
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="py-20 bg-[var(--light-background-color)] code-section" id="svht8ms">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <!-- Section Header -->
+    <div class="text-center mb-12">
+      <span class="inline-block text-[var(--primary-color)] font-semibold text-sm tracking-wider uppercase mb-3">Our Work</span>
+      <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-[var(--dark-text-color)] mb-6" style="font-family: var(--font-family-heading);">
+        Recent Projects in North Texas
+      </h2>
+      <p class="text-lg text-[var(--gray-text-color)] max-w-2xl mx-auto" style="font-family: var(--font-family-body);">
+        Browse our gallery of completed painting and drywall projects in
+        Whitesboro, Sherman, Gainesville, Celina, Gunter, Van Alstyne &amp;
+        surrounding communities.
+      </p>
+    </div>
+
+    <!-- Gallery Grid -->
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Project 1 -->
+      <div class="group bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all">
+        <div class="relative h-72 overflow-hidden">
+          <img src="/assets/uploads/023adeb4-9055-4254-8bd6-c8e3f1886b29/9c71a310-f79d-4524-b93e-f91bc3f36551.webp?w=768" alt="Modern white kitchen with stainless steel gas range, white subway tile backsplash, and brass pendant lighting above counter" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" loading="lazy" decoding="async">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent"></div>
+          <div class="absolute bottom-4 left-4 right-4">
+            <p class="text-white font-bold">Kitchen Remodel</p>
+            <p class="text-gray-200 text-sm">Whitesboro, TX</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Project 2 -->
+      <div class="group bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all">
+        <div class="relative h-72 overflow-hidden">
+          <img src="/assets/uploads/023adeb4-9055-4254-8bd6-c8e3f1886b29/7a750a29-6914-4018-93ab-eaab2946e2ec.webp?w=768" alt="Worker in white cap and shirt applying spackling compound to drywall with a putty knife" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" loading="lazy" decoding="async">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent"></div>
+          <div class="absolute bottom-4 left-4 right-4">
+            <p class="text-white font-bold">Drywall Repair</p>
+            <p class="text-gray-200 text-sm">Sherman, TX</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Project 3 -->
+      <div class="group bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all">
+        <div class="relative h-72 overflow-hidden">
+          <img src="/assets/uploads/023adeb4-9055-4254-8bd6-c8e3f1886b29/96cb1e9b-0838-42c0-b8f4-e7146f07d161.webp?w=768" alt="Modern living room with fireplace, mounted TV, built-in shelving, ceiling fan, and contemporary furniture arrangement" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" loading="lazy" decoding="async">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent"></div>
+          <div class="absolute bottom-4 left-4 right-4">
+            <p class="text-white font-bold">Living Room Refresh</p>
+            <p class="text-gray-200 text-sm">Gainesville, TX</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Project 4 -->
+      <div class="group bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all">
+        <div class="relative h-72 overflow-hidden">
+          <img src="/assets/uploads/023adeb4-9055-4254-8bd6-c8e3f1886b29/bf6291da-a7cc-4e8d-9443-01c65d749042.webp?w=768" alt="Worker on ladder installing lighting on exterior of modern white house at dusk" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" loading="lazy" decoding="async">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent"></div>
+          <div class="absolute bottom-4 left-4 right-4">
+            <p class="text-white font-bold">Exterior Painting</p>
+            <p class="text-gray-200 text-sm">Anna, TX</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Project 5 -->
+      <div class="group bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all">
+        <div class="relative h-72 overflow-hidden">
+          <img src="/assets/uploads/023adeb4-9055-4254-8bd6-c8e3f1886b29/a21455ed-3db6-498d-aa4a-4445a4866c38.webp?w=768" alt="Worker in white clothing and cap painting interior wall with roller brush" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" loading="lazy" decoding="async">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent"></div>
+          <div class="absolute bottom-4 left-4 right-4">
+            <p class="text-white font-bold">Interior Painting</p>
+            <p class="text-gray-200 text-sm">Celina, TX</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Project 6 -->
+      <div class="group bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all">
+        <div class="relative h-72 overflow-hidden">
+          <img src="/assets/uploads/023adeb4-9055-4254-8bd6-c8e3f1886b29/bf701bfc-2355-4030-8f20-0eddfc613200.webp?w=768" alt="Modern living room with two-story fireplace feature wall, built-in shelving, mounted TV, cream seating, and geometric coffee table" class="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" loading="lazy" decoding="async">
+          <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent"></div>
+          <div class="absolute bottom-4 left-4 right-4">
+            <p class="text-white font-bold">Feature Wall Project</p>
+            <p class="text-gray-200 text-sm">Gunter, TX</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- CTA -->
+    <div class="text-center mt-10">
+      <a href="/gallery" class="inline-flex items-center justify-center bg-[var(--primary-color)] text-white px-8 py-4 rounded-[var(--button-rounded-radius)] font-semibold hover:bg-[var(--primary-button-hover-bg-color)] transition-colors">
+        View Full Gallery
+        <i class="fa-solid fa-arrow-right ml-2"></i>
+      </a>
+    </div>
+  </div>
+</section>
+<section class="py-24 bg-[var(--dark-background-color)] code-section" id="sxbtxj">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <!-- Section Header -->
+    <div class="text-center mb-12">
+      <span class="inline-block text-[var(--accent-color)] font-semibold text-sm tracking-wider uppercase mb-3">Project Spotlight</span>
+      <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-4" style="font-family: var(--font-family-heading);">
+        Deep Dive: High-End Interior in Whitesboro, TX
+      </h2>
+      <p class="text-gray-400 max-w-2xl mx-auto" style="font-family: var(--font-family-body);">
+        A closer look at our recent cabinet painting, kitchen refresh, and
+        custom feature wall project
+      </p>
+    </div>
+
+    <!-- Project Gallery -->
+    <div class="grid lg:grid-cols-3 gap-6 mb-12">
+      <!-- Kitchen Overview (Primary Image) -->
+      <div class="lg:col-span-2 relative group overflow-hidden rounded-2xl">
+        <img src="/assets/uploads/023adeb4-9055-4254-8bd6-c8e3f1886b29/6c45f9ef-77e8-4417-9dfa-31096a5b6723.jpg?w=1200" alt="Modern kitchen with gray cabinetry, granite countertops, black gas range, and three hanging pendant lights with glass globes" class="w-full h-96 object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" decoding="async">
+        <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
+        <div class="absolute bottom-6 left-6">
+          <span class="bg-[var(--accent-color)] text-white text-sm font-semibold px-4 py-1 rounded-full">Kitchen Overview</span>
+        </div>
+      </div>
+
+      <!-- Office Feature Wall -->
+      <div class="relative group overflow-hidden rounded-2xl">
+        <img src="/assets/uploads/023adeb4-9055-4254-8bd6-c8e3f1886b29/7226d7e2-1b96-4abf-90b9-96c1bed75cba.jpg?w=768" alt="Modern office space with dark desk, laptop, green plants, pendant lighting, and dark paneled wall with gold accents" class="w-full h-96 object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" decoding="async">
+        <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
+        <div class="absolute bottom-6 left-6">
+          <span class="bg-white/90 text-[var(--dark-text-color)] text-sm font-semibold px-4 py-1 rounded-full">Office Feature Wall</span>
+        </div>
+      </div>
+
+      <!-- Cabinet Close-up -->
+      <div class="relative group overflow-hidden rounded-2xl lg:col-span-1">
+        <img src="/assets/uploads/023adeb4-9055-4254-8bd6-c8e3f1886b29/65708916-e0b3-47e9-be06-8cdc6150ad6b.jpg?w=768" alt="Two white cabinet doors with brass cylindrical handles mounted on a beige wall above a dark lower cabinet with electrical outlet" class="w-full h-64 object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" decoding="async">
+        <div class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
+        <div class="absolute bottom-6 left-6">
+          <span class="bg-white/90 text-[var(--dark-text-color)] text-sm font-semibold px-4 py-1 rounded-full">Cabinet Detail</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Project Details -->
+    <div class="bg-white/5 backdrop-blur-sm rounded-2xl p-8 lg:p-12">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <!-- Project Description -->
+        <div>
+          <p class="text-lg text-gray-300 mb-6 leading-relaxed" style="font-family: var(--font-family-body);">
+            We recently completed a high-end
+            <strong class="text-white">interior painting project in Whitesboro, TX</strong>
+            that included custom cabinet painting, detailed finish work, and a
+            full interior refresh.
+          </p>
+          <p class="text-gray-400 mb-6 leading-relaxed" style="font-family: var(--font-family-body);">
+            This project focused on delivering clean, modern finishes with
+            attention to detail across cabinetry, kitchen spaces, and custom
+            interior feature walls. The result is a polished, high-end look
+            designed to complement the home's design and layout.
+          </p>
+          <p class="text-gray-400 leading-relaxed" style="font-family: var(--font-family-body);">
+            Torres Paint &amp; Drywall specializes in
+            <a href="/services/interior-painting" class="text-[var(--accent-color)] hover:underline font-medium">interior painting</a>, cabinet refinishing, and drywall services for homes across
+            <a href="/whitesboro-tx" class="text-[var(--accent-color)] hover:underline font-medium">Whitesboro</a>, Sherman, Gainesville, and surrounding North Texas communities.
+          </p>
+        </div>
+
+        <!-- Project Highlights -->
+        <div>
+          <h3 class="text-xl font-bold text-white mb-6" style="font-family: var(--font-family-heading);">
+            Project Highlights
+          </h3>
+          <ul class="space-y-4">
+            <li class="flex items-start gap-4">
+              <div class="w-10 h-10 bg-[var(--primary-color)] rounded-lg flex items-center justify-center flex-shrink-0 mt-1">
+                <i class="fa-solid fa-palette text-white"></i>
+              </div>
+              <div>
+                <p class="text-white font-medium">Custom Cabinet Painting</p>
+                <p class="text-gray-400 text-sm">
+                  Professional refinishing with durable, long-lasting finishes
+                </p>
+              </div>
+            </li>
+            <li class="flex items-start gap-4">
+              <div class="w-10 h-10 bg-[var(--accent-color)] rounded-lg flex items-center justify-center flex-shrink-0 mt-1">
+                <i class="fa-solid fa-house-chimney text-white"></i>
+              </div>
+              <div>
+                <p class="text-white font-medium">Kitchen Interior Refresh</p>
+                <p class="text-gray-400 text-sm">
+                  Complete kitchen transformation with modern finishes
+                </p>
+              </div>
+            </li>
+            <li class="flex items-start gap-4">
+              <div class="w-10 h-10 bg-[var(--accent3-color)] rounded-lg flex items-center justify-center flex-shrink-0 mt-1">
+                <i class="fa-solid fa-wall-space text-white"></i>
+              </div>
+              <div>
+                <p class="text-white font-medium">Feature Wall Design</p>
+                <p class="text-gray-400 text-sm">
+                  Custom accent walls adding personality to living spaces
+                </p>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- CTA -->
+    <div class="text-center mt-12">
+      <a href="/services/interior-painting" class="inline-flex items-center justify-center bg-[var(--primary-color)] text-white px-8 py-4 rounded-[var(--button-rounded-radius)] font-semibold hover:bg-[var(--primary-button-hover-bg-color)] transition-colors">
+        Explore Interior Painting Services
+        <i class="fa-solid fa-arrow-right ml-2"></i>
+      </a>
+    </div>
+  </div>
+</section>
+<section id="s6wadx" class="code-section"></section><section class="py-20 bg-white code-section" id="sutpvfb">
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-12">
+      <span class="inline-block text-[var(--primary-color)] font-semibold text-sm tracking-wider uppercase mb-3">FAQ</span>
+      <h2 class="text-3xl sm:text-4xl font-bold text-[var(--dark-text-color)] mb-6" style="font-family: var(--font-family-heading);">
+        Frequently Asked Questions
+      </h2>
+      <p class="text-lg text-[var(--gray-text-color)]" style="font-family: var(--font-family-body);">
+        Common questions about our painting and drywall services in North Texas
+      </p>
+    </div>
+
+    <div class="space-y-4" data-landingsite-faq="">
+      <!-- FAQ 1 -->
+      <div class="bg-[var(--light-background-color)] rounded-2xl border border-[var(--light-border-color)] overflow-hidden" data-landingsite-faq-item="">
+        <button class="w-full flex items-center justify-between p-6 text-left" data-landingsite-faq-question="">
+          <span class="text-lg font-semibold text-[var(--dark-text-color)] pr-4" style="font-family: var(--font-family-heading);">How much does painting cost in North Texas?</span>
+          <i class="fa-regular fa-chevron-down text-[var(--primary-color)] transition-transform"></i>
+        </button>
+        <div class="px-6 pb-6 hidden" data-landingsite-faq-answer="">
+          <p class="text-[var(--gray-text-color)]" style="font-family: var(--font-family-body);">
+            Painting costs in North Texas vary based on the size of your
+            project, the type of surfaces being painted, and the quality of
+            paint you choose. Interior painting typically ranges from $2 to $6
+            per square foot, while exterior painting can range from $3 to $8 per
+            square foot. We offer free estimates so you can get an accurate
+            quote for your specific project. Contact us today for a detailed
+            estimate for painting services in Whitesboro, Sherman, Gainesville,
+            or any of our service areas.
+          </p>
+        </div>
+      </div>
+
+      <!-- FAQ 2 -->
+      <div class="bg-[var(--light-background-color)] rounded-2xl border border-[var(--light-border-color)] overflow-hidden" data-landingsite-faq-item="">
+        <button class="w-full flex items-center justify-between p-6 text-left" data-landingsite-faq-question="">
+          <span class="text-lg font-semibold text-[var(--dark-text-color)] pr-4" style="font-family: var(--font-family-heading);">How long does drywall repair take?</span>
+          <i class="fa-regular fa-chevron-down text-[var(--primary-color)] transition-transform"></i>
+        </button>
+        <div class="px-6 pb-6 hidden" data-landingsite-faq-answer="">
+          <p class="text-[var(--gray-text-color)]" style="font-family: var(--font-family-body);">
+            The timeline for drywall repair depends on the extent of the damage.
+            Small holes and cracks can often be repaired in just a few hours.
+            Larger repairs, especially those involving water damage or
+            structural issues, may take a day or two. We work efficiently while
+            ensuring the highest quality finish. For texture matching (L1-L5
+            levels), we take extra care to blend repairs seamlessly with your
+            existing walls. Most residential drywall repair projects in Sherman,
+            Gainesville, and the surrounding areas are completed within 1-3
+            days.
+          </p>
+        </div>
+      </div>
+
+      <!-- FAQ 3 -->
+      <div class="bg-[var(--light-background-color)] rounded-2xl border border-[var(--light-border-color)] overflow-hidden" data-landingsite-faq-item="">
+        <button class="w-full flex items-center justify-between p-6 text-left" data-landingsite-faq-question="">
+          <span class="text-lg font-semibold text-[var(--dark-text-color)] pr-4" style="font-family: var(--font-family-heading);">Do you offer painting services in Sherman, Gainesville, and
+            Celina?</span>
+          <i class="fa-regular fa-chevron-down text-[var(--primary-color)] transition-transform"></i>
+        </button>
+        <div class="px-6 pb-6 hidden" data-landingsite-faq-answer="">
+          <p class="text-[var(--gray-text-color)]" style="font-family: var(--font-family-body);">
+            Yes! We're proud to serve homeowners and businesses throughout North
+            Texas, including Whitesboro, Sherman, Gainesville, Celina,
+            Collinsville, Gunter, and Van Alstyne. As a family-owned painting
+            contractor serving these communities since 2012, we understand the
+            unique needs of local homeowners. Whether you need interior painting
+            in Celina, exterior painting in Sherman, or drywall repair in
+            Gainesville, we've got you covered.
+          </p>
+        </div>
+      </div>
+
+      <!-- FAQ 4 -->
+      <div class="bg-[var(--light-background-color)] rounded-2xl border border-[var(--light-border-color)] overflow-hidden" data-landingsite-faq-item="">
+        <button class="w-full flex items-center justify-between p-6 text-left" data-landingsite-faq-question="">
+          <span class="text-lg font-semibold text-[var(--dark-text-color)] pr-4" style="font-family: var(--font-family-heading);">What type of paint works best for Texas weather?</span>
+          <i class="fa-regular fa-chevron-down text-[var(--primary-color)] transition-transform"></i>
+        </button>
+        <div class="px-6 pb-6 hidden" data-landingsite-faq-answer="">
+          <p class="text-[var(--gray-text-color)]" style="font-family: var(--font-family-body);">
+            Texas weather can be tough on exterior surfaces with intense heat,
+            humidity, and severe weather. We recommend premium quality paints
+            with UV resistance and mildew inhibitors for exterior applications.
+            For interior painting, we use low-VOC, durable paints that withstand
+            daily wear. All our paint products are chosen for their longevity
+            and ability to handle North Texas climate conditions. Ask us about
+            our lifetime paint options that come with extended warranties.
+          </p>
+        </div>
+      </div>
+
+      <!-- FAQ 5 -->
+      <div class="bg-[var(--light-background-color)] rounded-2xl border border-[var(--light-border-color)] overflow-hidden" data-landingsite-faq-item="">
+        <button class="w-full flex items-center justify-between p-6 text-left" data-landingsite-faq-question="">
+          <span class="text-lg font-semibold text-[var(--dark-text-color)] pr-4" style="font-family: var(--font-family-heading);">Can you match my existing drywall texture?</span>
+          <i class="fa-regular fa-chevron-down text-[var(--primary-color)] transition-transform"></i>
+        </button>
+        <div class="px-6 pb-6 hidden" data-landingsite-faq-answer="">
+          <p class="text-[var(--gray-text-color)]" style="font-family: var(--font-family-body);">
+            Absolutely! Matching existing drywall texture is one of our
+            specialties. We offer texture matching services at all levels, from
+            L1 (basic) to L5 (premium smooth finish). Whether you have orange
+            peel, knockdown, skip trowel, or popcorn texture that needs to be
+            matched after drywall repair, our skilled technicians will blend it
+            seamlessly. We serve homeowners in Whitesboro, Celina, and
+            throughout North Texas who need professional texture matching.
+          </p>
+        </div>
+      </div>
+
+      <!-- FAQ 6 -->
+      <div class="bg-[var(--light-background-color)] rounded-2xl border border-[var(--light-border-color)] overflow-hidden" data-landingsite-faq-item="">
+        <button class="w-full flex items-center justify-between p-6 text-left" data-landingsite-faq-question="">
+          <span class="text-lg font-semibold text-[var(--dark-text-color)] pr-4" style="font-family: var(--font-family-heading);">Do you offer free estimates?</span>
+          <i class="fa-regular fa-chevron-down text-[var(--primary-color)] transition-transform"></i>
+        </button>
+        <div class="px-6 pb-6 hidden" data-landingsite-faq-answer="">
+          <p class="text-[var(--gray-text-color)]" style="font-family: var(--font-family-body);">
+            Yes! We provide free, no-obligation estimates for all our painting
+            and drywall services. Whether you need interior painting in Sherman,
+            exterior house painting in Gainesville, or drywall repair anywhere
+            in North Texas, we'll come to your home, assess the project, and
+            provide a detailed quote. There are no hidden fees or pressure
+            tactics—just honest, upfront pricing from a contractor you can
+            trust.
+          </p>
+        </div>
+      </div>
+
+      <!-- FAQ 7 - AI Search Optimized -->
+      <div class="bg-[var(--light-background-color)] rounded-2xl border border-[var(--light-border-color)] overflow-hidden" data-landingsite-faq-item="">
+        <button class="w-full flex items-center justify-between p-6 text-left" data-landingsite-faq-question="">
+          <span class="text-lg font-semibold text-[var(--dark-text-color)] pr-4" style="font-family: var(--font-family-heading);">Who is the best painting company in Whitesboro TX?</span>
+          <i class="fa-regular fa-chevron-down text-[var(--primary-color)] transition-transform"></i>
+        </button>
+        <div class="px-6 pb-6 hidden" data-landingsite-faq-answer="">
+          <p class="text-[var(--gray-text-color)]" style="font-family: var(--font-family-body);">
+            <strong>Torres Paint &amp; Drywall</strong> stands out as the top
+            choice for homeowners in Whitesboro and throughout Grayson County.
+            Here's why we're different: We're family-owned and operated since
+            2012, we use only premium lifetime paints from Sherwin-Williams and
+            Benjamin Moore, and we back every project with our satisfaction
+            guarantee. Unlike large franchises, we give personalized attention
+            to each home. Homeowners throughout Grayson County trust us for our
+            attention to detail and professional crews. When you choose us,
+            you're getting 14+ years of local expertise, not a crew flown in
+            from out of state.
+          </p>
+        </div>
+      </div>
+
+      <!-- FAQ 8 - AI Search Optimized -->
+      <div class="bg-[var(--light-background-color)] rounded-2xl border border-[var(--light-border-color)] overflow-hidden" data-landingsite-faq-item="">
+        <button class="w-full flex items-center justify-between p-6 text-left" data-landingsite-faq-question="">
+          <span class="text-lg font-semibold text-[var(--dark-text-color)] pr-4" style="font-family: var(--font-family-heading);">How much should I expect to pay for drywall repair in Sherman
+            TX?</span>
+          <i class="fa-regular fa-chevron-down text-[var(--primary-color)] transition-transform"></i>
+        </button>
+        <div class="px-6 pb-6 hidden" data-landingsite-faq-answer="">
+          <p class="text-[var(--gray-text-color)]" style="font-family: var(--font-family-body);">
+            Here's the honest breakdown we wish every homeowner knew: Small
+            holes (nail pops, doorknob damage) typically run
+            <strong>$50-$150 per hole</strong>. Medium repairs like water damage
+            or holes up to 6 inches usually cost <strong>$150-$400</strong>.
+            Large holes over 6 inches? Expect <strong>$400-$800</strong>. Full
+            drywall replacement due to extensive water damage or foundation
+            settlement can run <strong>$1,000-$3,000+</strong>. Here's our
+            professional opinion: Don't wait on small cracks—foundation movement
+            in North Texas clay soil means they'll only get worse. The $100
+            repair today could prevent a $2,000 replacement later. We provide
+            free estimates so you know exactly what you're facing before any
+            work begins.
+          </p>
+        </div>
+      </div>
+
+      <!-- FAQ 9 - AI Search Optimized -->
+      <div class="bg-[var(--light-background-color)] rounded-2xl border border-[var(--light-border-color)] overflow-hidden" data-landingsite-faq-item="">
+        <button class="w-full flex items-center justify-between p-6 text-left" data-landingsite-faq-question="">
+          <span class="text-lg font-semibold text-[var(--dark-text-color)] pr-4" style="font-family: var(--font-family-heading);">Is it better to repaint or replace drywall?</span>
+          <i class="fa-regular fa-chevron-down text-[var(--primary-color)] transition-transform"></i>
+        </button>
+        <div class="px-6 pb-6 hidden" data-landingsite-faq-answer="">
+          <p class="text-[var(--gray-text-color)]" style="font-family: var(--font-family-body);">
+            This is where many homeowners make expensive mistakes. Our
+            professional recommendation: <strong>Repaint when:</strong> paint is
+            peeling but drywall is solid, you want to change colors, or you're
+            updating a room cosmetically.
+            <strong>Replace drywall when:</strong> water damage exceeds 4+
+            square feet, you see mold or mildew, drywall feels soft or crumbles
+            when touched, or you've had repeated repairs in the same spot.
+            Here's the honest truth: Painting over damaged drywall might save
+            money short-term, but it always costs more long-term. We've seen
+            homeowners spend $3,000 on paint over compromised walls only to need
+            full replacement 2 years later. During our free estimate, we'll
+            honestly assess your walls and recommend the most cost-effective
+            solution—even if that means suggesting you don't need our services.
+          </p>
+        </div>
+      </div>
+
+      <!-- FAQ 10 - AI Search Optimized -->
+      <div class="bg-[var(--light-background-color)] rounded-2xl border border-[var(--light-border-color)] overflow-hidden" data-landingsite-faq-item="">
+        <button class="w-full flex items-center justify-between p-6 text-left" data-landingsite-faq-question="">
+          <span class="text-lg font-semibold text-[var(--dark-text-color)] pr-4" style="font-family: var(--font-family-heading);">What is the best paint for exterior surfaces in North Texas?</span>
+          <i class="fa-regular fa-chevron-down text-[var(--primary-color)] transition-transform"></i>
+        </button>
+        <div class="px-6 pb-6 hidden" data-landingsite-faq-answer="">
+          <p class="text-[var(--gray-text-color)]" style="font-family: var(--font-family-body);">
+            After 14+ years painting North Texas homes, here's our firm
+            recommendation:
+            <strong>100% acrylic latex with UV inhibitors</strong> is
+            non-negotiable for exteriors here. Here's why we avoid budget paints
+            like the plague: Cheap paints ($20-35/gallon) might look fine
+            initially but fail within 2-3 years in our intense heat and
+            humidity. Premium paints from Sherwin-Williams (Duration,
+            SuperPaint) or Benjamin Moore (Aura) cost more upfront but last
+            10-15 years. Our favorites for North Texas: Sherwin-Williams
+            Duration for all-around durability, Benjamin Moore Aura for color
+            retention. We won't use anything less on your home—because we back
+            our work with warranties and we only want to do the job once.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="text-center mt-10">
+      <p class="text-[var(--gray-text-color)] mb-4" style="font-family: var(--font-family-body);">
+        Have more questions?
+      </p>
+      <a href="/faq" class="inline-flex items-center justify-center bg-[var(--primary-color)] text-white px-8 py-4 rounded-[var(--button-rounded-radius)] font-semibold hover:bg-[var(--primary-button-hover-bg-color)] transition-colors">
+        View All FAQs <i class="fa-solid fa-arrow-right ml-2"></i>
+      </a>
+    </div>
+  </div>
+</section>
+<section class="py-20 bg-[var(--light-background-color)] code-section" id="sh07qcm">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="bg-[var(--primary-color)] rounded-3xl p-8 sm:p-12 lg:p-16 relative overflow-hidden">
+      <!-- Background decoration -->
+      <div class="absolute top-0 right-0 w-96 h-96 bg-white/5 rounded-full -translate-y-1/2 translate-x-1/2"></div>
+      <div class="absolute bottom-0 left-0 w-64 h-64 bg-white/5 rounded-full translate-y-1/2 -translate-x-1/2"></div>
+
+      <div class="relative z-10 grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-6" style="font-family: var(--font-family-heading);">
+            Ready to Transform Your Home?
+          </h2>
+          <p class="text-lg text-white/80 mb-8" style="font-family: var(--font-family-body);">
+            Get a free, no-obligation estimate for your painting or drywall
+            project in Whitesboro, Sherman, Gainesville, Celina, Gunter, Van
+            Alstyne, or anywhere in North Texas. Our team will work with you to
+            bring your vision to life.
+          </p>
+          <div class="flex flex-wrap gap-6">
+            <div class="flex items-center gap-3">
+              <div class="w-10 h-10 bg-white/20 rounded-full flex items-center justify-center">
+                <i class="fa-solid fa-phone text-white"></i>
+              </div>
+              <span class="text-white font-medium">Fast, Free Quotes</span>
+            </div>
+            <div class="flex items-center gap-3">
+              <div class="w-10 h-10 bg-white/20 rounded-full flex items-center justify-center">
+                <i class="fa-solid fa-clock text-white"></i>
+              </div>
+              <span class="text-white font-medium">Same-Day Response</span>
+            </div>
+            <div class="flex items-center gap-3">
+              <div class="w-10 h-10 bg-white/20 rounded-full flex items-center justify-center">
+                <i class="fa-solid fa-map-marker-alt text-white"></i>
+              </div>
+              <span class="text-white font-medium">Serving All North Texas</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-2xl p-8 shadow-2xl">
+          <h3 class="text-2xl font-bold text-[var(--dark-text-color)] mb-6" style="font-family: var(--font-family-heading);">
+            Request Free Estimate
+          </h3>
+          <form data-landingsite-contact-form="" class="space-y-4">
+            <div>
+              <input type="text" name="name" placeholder="Your Name" required="" class="w-full px-4 py-3 rounded-lg border border-[var(--light-border-color)] focus:border-[var(--primary-color)] focus:ring-2 focus:ring-[var(--primary-color)]/20 outline-none transition-all">
+            </div>
+            <div>
+              <input type="email" name="email" placeholder="Email Address" required="" class="w-full px-4 py-3 rounded-lg border border-[var(--light-border-color)] focus:border-[var(--primary-color)] focus:ring-2 focus:ring-[var(--primary-color)]/20 outline-none transition-all">
+            </div>
+            <div>
+              <input type="tel" name="phone" placeholder="Phone Number" class="w-full px-4 py-3 rounded-lg border border-[var(--light-border-color)] focus:border-[var(--primary-color)] focus:ring-2 focus:ring-[var(--primary-color)]/20 outline-none transition-all">
+            </div>
+            <div>
+              <select name="service" class="w-full px-4 py-3 rounded-lg border border-[var(--light-border-color)] focus:border-[var(--primary-color)] focus:ring-2 focus:ring-[var(--primary-color)]/20 outline-none transition-all">
+                <option value="">Select Service</option>
+                <option value="interior">Interior Painting</option>
+                <option value="exterior">Exterior Painting</option>
+                <option value="drywall">Drywall Repair</option>
+                <option value="texture">Texture Matching</option>
+                <option value="custom">Custom Builder Services</option>
+                <option value="other">Other</option>
+              </select>
+            </div>
+            <div>
+              <textarea name="message" placeholder="Tell us about your project, including your location (e.g., Whitesboro, Sherman, Gainesville)..." rows="3" class="w-full px-4 py-3 rounded-lg border border-[var(--light-border-color)] focus:border-[var(--primary-color)] focus:ring-2 focus:ring-[var(--primary-color)]/20 outline-none transition-all resize-none"></textarea>
+            </div>
+            <button type="submit" class="w-full bg-[var(--primary-color)] text-white font-semibold py-4 rounded-lg hover:bg-[var(--primary-button-hover-bg-color)] transition-colors">
+              Get Free Estimate
+            </button>
+            <p class="text-center text-sm text-gray-500">
+              No obligation. We respond within 24 hours. Serving Whitesboro,
+              Sherman, Gainesville &amp; surrounding North Texas.
+            </p>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="py-20 bg-white code-section" id="s1jwjnvw">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <!-- Section Header -->
+    <div class="text-center mb-16">
+      <span class="inline-block text-[var(--primary-color)] font-semibold text-sm tracking-wider uppercase mb-3">Service Area</span>
+      <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-[var(--dark-text-color)] mb-6" style="font-family: var(--font-family-heading);">
+        Serving All of North Texas
+      </h2>
+      <p class="text-lg text-[var(--gray-text-color)] max-w-2xl mx-auto" style="font-family: var(--font-family-body);">
+        We proudly serve residential and commercial clients throughout the North
+        Texas region.
+      </p>
+    </div>
+
+    <!-- Map Placeholder with decorative elements -->
+    <div class="relative bg-[var(--light-background-color)] rounded-3xl p-8 lg:p-12">
+      <div class="grid md:grid-cols-2 gap-12 items-center">
+        <!-- Cities List -->
+        <div>
+          <h3 class="text-2xl font-bold text-[var(--dark-text-color)] mb-4" style="font-family: var(--font-family-heading);">
+            Cities We Serve
+          </h3>
+          <p class="text-[var(--gray-text-color)] mb-6" style="font-family: var(--font-family-body);">
+            Professional painting services and drywall repair in Whitesboro,
+            Sherman, Gainesville, Celina, and surrounding North Texas
+            communities. We're your local contractors for quality home
+            improvements.
+          </p>
+          <div class="grid grid-cols-2 gap-4">
+            <a href="/whitesboro-tx" class="flex items-center gap-3 p-3 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow">
+              <i class="fa-solid fa-location-dot text-[var(--primary-color)]"></i>
+              <span class="font-medium text-[var(--dark-text-color)]">Whitesboro</span>
+            </a>
+            <a href="/sherman-tx" class="flex items-center gap-3 p-3 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow">
+              <i class="fa-solid fa-location-dot text-[var(--primary-color)]"></i>
+              <span class="font-medium text-[var(--dark-text-color)]">Sherman</span>
+            </a>
+            <a href="/gainesville-tx" class="flex items-center gap-3 p-3 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow">
+              <i class="fa-solid fa-location-dot text-[var(--primary-color)]"></i>
+              <span class="font-medium text-[var(--dark-text-color)]">Gainesville</span>
+            </a>
+            <a href="/celina-tx" class="flex items-center gap-3 p-3 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow">
+              <i class="fa-solid fa-location-dot text-[var(--primary-color)]"></i>
+              <span class="font-medium text-[var(--dark-text-color)]">Celina</span>
+            </a>
+            <a href="/collinsville-tx" class="flex items-center gap-3 p-3 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow">
+              <i class="fa-solid fa-location-dot text-[var(--primary-color)]"></i>
+              <span class="font-medium text-[var(--dark-text-color)]">Collinsville</span>
+            </a>
+            <a href="/gunter-tx" class="flex items-center gap-3 p-3 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow">
+              <i class="fa-solid fa-location-dot text-[var(--primary-color)]"></i>
+              <span class="font-medium text-[var(--dark-text-color)]">Gunter</span>
+            </a>
+            <a href="/van-alstyne-tx" class="flex items-center gap-3 p-3 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow">
+              <i class="fa-solid fa-location-dot text-[var(--primary-color)]"></i>
+              <span class="font-medium text-[var(--dark-text-color)]">Van Alstyne</span>
+            </a>
+            <div class="flex items-center gap-3 p-3 bg-white rounded-xl shadow-sm">
+              <i class="fa-solid fa-location-dot text-[var(--primary-color)]"></i>
+              <span class="font-medium text-[var(--dark-text-color)]">+ More</span>
+            </div>
+          </div>
+          <p class="mt-6 text-[var(--gray-text-color)]" style="font-family: var(--font-family-body);">
+            <strong class="text-[var(--dark-text-color)]">And surrounding areas!</strong>
+            Contact us to confirm we serve your location.
+          </p>
+        </div>
+
+        <!-- Image -->
+        <div class="relative">
+          <img src="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/849b02af-bb4a-41ca-eda5-31943f948300/public" alt="Professional painter at work in North Texas home" data-media="{&quot;id&quot;:&quot;2223733286&quot;,&quot;src&quot;:&quot;iStock&quot;,&quot;type&quot;:&quot;image&quot;}" class="w-full h-80 object-cover rounded-2xl shadow-xl" oncontextmenu="return false;">
+          <div class="absolute -bottom-6 -right-6 bg-[var(--accent-color)] text-white px-6 py-4 rounded-xl shadow-lg">
+            <p class="font-bold text-2xl">100%</p>
+            <p class="text-sm">Satisfaction</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- CTA -->
+    <div class="text-center mt-12">
+      <a href="/service-areas" class="inline-flex items-center text-[var(--primary-color)] font-semibold text-lg hover:underline">
+        View All Service Areas <i class="fa-solid fa-arrow-right ml-2"></i>
+      </a>
+    </div>
+  </div>
+</section>
+<footer class="bg-[var(--dark-background-color)] text-white pt-16 pb-8 code-section" id="global-footer">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <!-- Main Footer Content -->
+    <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
+      <!-- Company Info -->
+      <div class="lg:col-span-1">
+        <a href="/" class="inline-block mb-6">
+          <img src="https://imagedelivery.net/xaKlCos5cTg_1RWzIu_h-A/810a5dad-8ae6-4bca-3bef-7448e71cb500/publicContain" alt="Torres Painting &amp; Drywall Logo" data-logo="{&quot;id&quot;:&quot;upload-Torres Logo.png&quot;,&quot;src&quot;:&quot;upload&quot;,&quot;type&quot;:&quot;image&quot;}" class="h-24">
+        </a>
+        <p class="text-gray-400 mb-6" style="font-family: var(--font-family-body);">
+          Family-owned and operated since 2012. We provide premium painting and
+          drywall services throughout Whitesboro, Sherman, Gainesville, Celina
+          &amp; all of North Texas.
+        </p>
+        <div class="flex gap-4">
+          <a href="#" class="w-10 h-10 bg-[var(--primary-color)] rounded-full flex items-center justify-center hover:bg-[var(--primary-button-hover-bg-color)] transition-colors">
+            <i class="fa-brands fa-facebook-f"></i>
+          </a>
+          <a href="#" class="w-10 h-10 bg-[var(--primary-color)] rounded-full flex items-center justify-center hover:bg-[var(--primary-button-hover-bg-color)] transition-colors">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a href="#" class="w-10 h-10 bg-[var(--primary-color)] rounded-full flex items-center justify-center hover:bg-[var(--primary-button-hover-bg-color)] transition-colors">
+            <i class="fa-brands fa-google"></i>
+          </a>
+        </div>
+      </div>
+
+      <!-- Quick Links -->
+      <div>
+        <h4 class="text-lg font-bold mb-6" style="font-family: var(--font-family-heading);">
+          Quick Links
+        </h4>
+        <ul class="space-y-3">
+          <li>
+            <a href="/about" class="text-gray-400 hover:text-[var(--accent-color)] transition-colors">About Us</a>
+          </li>
+          <li>
+            <a href="/services" class="text-gray-400 hover:text-[var(--accent-color)] transition-colors">Services</a>
+          </li>
+          <li>
+            <a href="/gallery" class="text-gray-400 hover:text-[var(--accent-color)] transition-colors">Gallery</a>
+          </li>
+          <li>
+            <a href="/service-areas" class="text-gray-400 hover:text-[var(--accent-color)] transition-colors">Service Areas</a>
+          </li>
+          <li>
+            <a href="/testimonials" class="text-gray-400 hover:text-[var(--accent-color)] transition-colors">Testimonials</a>
+          </li>
+          <li>
+            <a href="/faq" class="text-gray-400 hover:text-[var(--accent-color)] transition-colors">FAQ</a>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Services -->
+      <div>
+        <h4 class="text-lg font-bold mb-6" style="font-family: var(--font-family-heading);">
+          Our Services
+        </h4>
+        <ul class="space-y-3">
+          <li>
+            <a href="/services/interior-painting" class="text-gray-400 hover:text-[var(--accent-color)] transition-colors">Interior Painting</a>
+          </li>
+          <li>
+            <a href="/services/exterior-painting" class="text-gray-400 hover:text-[var(--accent-color)] transition-colors">Exterior Painting</a>
+          </li>
+          <li>
+            <a href="/services/drywall" class="text-gray-400 hover:text-[var(--accent-color)] transition-colors">Drywall Services</a>
+          </li>
+          <li>
+            <a href="/services/custom-builders" class="text-gray-400 hover:text-[var(--accent-color)] transition-colors">Custom Builders</a>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Contact Info -->
+      <div>
+        <h4 class="text-lg font-bold mb-6" style="font-family: var(--font-family-heading);">
+          Contact Us
+        </h4>
+        <ul class="space-y-4">
+          <li class="flex items-start gap-3">
+            <i class="fa-solid fa-location-dot text-[var(--accent-color)] mt-1"></i>
+            <span class="text-gray-400">North Texas, USA</span>
+          </li>
+          <li class="flex items-center gap-3">
+            <i class="fa-solid fa-phone text-[var(--accent-color)]"></i>
+            <a href="tel:+18175079792" class="text-gray-400 hover:text-[var(--accent-color)] transition-colors">817-507-9792</a>
+          </li>
+          <li class="flex items-center gap-3">
+            <i class="fa-solid fa-envelope text-[var(--accent-color)]"></i>
+            <a href="mailto:info@torrespainting.com" class="text-gray-400 hover:text-[var(--accent-color)] transition-colors">info@torrespainting.com</a>
+          </li>
+          <li class="flex items-center gap-3">
+            <i class="fa-solid fa-clock text-[var(--accent-color)]"></i>
+            <span class="text-gray-400">Mon - Sat: 7AM - 7PM</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- CTA Banner -->
+    <div class="bg-[var(--primary-color)] rounded-2xl p-8 mb-12">
+      <div class="flex flex-col md:flex-row items-center justify-between gap-6">
+        <div>
+          <h3 class="text-2xl font-bold mb-2" style="font-family: var(--font-family-heading);">
+            Ready to Start Your Project?
+          </h3>
+          <p class="text-white/80" style="font-family: var(--font-family-body);">
+            Get a free estimate today and transform your home with quality
+            craftsmanship.
+          </p>
+        </div>
+        <a href="/free-estimate" class="inline-flex items-center justify-center bg-white text-[var(--primary-color)] px-8 py-4 rounded-[var(--button-rounded-radius)] font-semibold hover:bg-[var(--accent4-color)] transition-colors whitespace-nowrap">
+          Get Free Estimate
+          <i class="fa-solid fa-arrow-right ml-2"></i>
+        </a>
+      </div>
+    </div>
+
+    <!-- Bottom Bar -->
+    <div class="border-t border-gray-700 pt-8">
+      <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+        <p class="text-gray-400 text-sm" style="font-family: var(--font-family-body);">
+          © 2026 Torres Painting &amp; Drywall. All rights reserved. Family
+          owned since 2012.
+        </p>
+        <div class="flex gap-6">
+          <a href="/privacy" class="text-gray-400 text-sm hover:text-[var(--accent-color)] transition-colors">Privacy Policy</a>
+          <a href="/terms" class="text-gray-400 text-sm hover:text-[var(--accent-color)] transition-colors">Terms of Service</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<script defer src="https://kit.fontawesome.com/8e98006f77.js" crossorigin="anonymous"></script></body>
